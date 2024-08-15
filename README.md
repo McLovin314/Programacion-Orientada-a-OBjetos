@@ -3,9 +3,10 @@
 -Email: docuheone473@gmail.com
 
 ## Actividad 1
--Programa 1
--Programa 2
--Programa 3
+-p01_HolaMundo
+-p02_AreaCirculo
+-p03_AreaTriangulo
+-p04_PagaTrabajador
 
 ## Actividad 2
 -Actividad 4
