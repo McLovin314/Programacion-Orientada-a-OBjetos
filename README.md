@@ -22,3 +22,10 @@
 -p13_VolumenCilindro
 -p14_CalculoTiempo
 -p15_ConvertirDolar
+
+## Actividad 3 
+-p16_TrabajandoEnteros
+-p17_TrabajandoFlotante
+p18_TrabajandoConstantes
+p19_TrabajandoCaracteres
+p20_ConversionTipos
