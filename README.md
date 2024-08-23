@@ -2,7 +2,7 @@
 -Nombre: Iván Contreras Becerra
 -Email: docuheone473@gmail.com
 
-## Actividad 1 - Elementos Básicos
+## Actividad 1 - Elementos Básicos-
 -p01_HolaMundo
 -p02_AreaCirculo
 -p03_AreaTriangulo
@@ -40,4 +40,4 @@ p24_PagaTrabajadorV2
 -p25_EstacionesAño
 -p26_TipoAngulo
 -p27_AceptarEstudiante
-p28_LeyDeNewton
+-p28_LeyDeNewton
