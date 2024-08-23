@@ -2,7 +2,7 @@
 -Nombre: Iván Contreras Becerra
 -Email: docuheone473@gmail.com
 
-## Actividad 1
+## Actividad 1 - Elementos Básicos
 -p01_HolaMundo
 -p02_AreaCirculo
 -p03_AreaTriangulo
@@ -15,7 +15,7 @@
 -p08_FuncionesTrigonometricas
 -p09_DividirEnCifras
 
-## Practica 1
+## Practica 1 - 
 -p10_HipotenusaTriangulo
 -p11_CalcularAngulo
 -p12_ConvertirTemperatura
@@ -29,3 +29,15 @@
 p18_TrabajandoConstantes
 p19_TrabajandoCaracteres
 p20_ConversionTipos
+
+## Actividad 4
+-p21_VerificarNumero
+-p22_VerificarSuma
+-p23_ConvertirTemperaturaV2
+p24_PagaTrabajadorV2
+
+## Actividad 5
+-p25_EstacionesAño
+-p26_TipoAngulo
+-p27_AceptarEstudiante
+p28_LeyDeNewton
