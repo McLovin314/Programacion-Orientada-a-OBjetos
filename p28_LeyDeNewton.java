@@ -3,7 +3,7 @@
  * f = m * a, m = f / a, a = f / m
  */
 
-import java.util.Scanner;
+ import java.util.Scanner;
 
  public class p28_LeyDeNewton {
     public static void main(String[] args) {
@@ -53,3 +53,4 @@ import java.util.Scanner;
     }
     
 }
+
