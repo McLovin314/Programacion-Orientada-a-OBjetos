@@ -48,6 +48,14 @@
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
 
+## Practica 2
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- p35_ContinentesMundo
+- p36_CompraPizza
+- p37_CalculoNotas
+- p38_AceptarEstudianteV2
+
 ## Actividad 7
 - p39_Numeros1a100
 - p40_Numero100a1
