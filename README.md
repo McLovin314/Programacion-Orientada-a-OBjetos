@@ -62,3 +62,12 @@
 - p41_ProcesaCalificaciones
 - p42_TablaMultiplicar
 - p43_ConteoNumero
+
+## Actividad 8 
+- p44_ParesAscendentes
+- p45_ImparesAscendentes
+- p46_TablaConversion
+- p47_ConjeturaCollatz
+
+
+
