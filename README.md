@@ -96,3 +96,6 @@
 
 ## Practica 5
 - p65_SistemaPapeleria //Practica de repaso para parcial
+
+## Examen Parcial 1
+- ep_01PrimerExamenParcial.java
