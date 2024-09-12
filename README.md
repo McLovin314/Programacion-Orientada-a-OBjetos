@@ -99,3 +99,10 @@
 
 ## Examen Parcial 1
 - ep_01PrimerExamenParcial.java
+
+## Actividad 11
+- p66_PromedioNumeros
+- p67_ConversonTemperatura
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
