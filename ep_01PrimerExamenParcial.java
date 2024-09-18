@@ -22,7 +22,7 @@ public class ep_01PrimerExamenParcial {
 
         System.out.print("Dame tu edad: ");
         edad = obj.nextInt();
-        if (edad > 23) {
+        if (edad >= 23) {
             System.out.println("Felicidades, has sido aceptado en esta Universidad");
             
         } else {
