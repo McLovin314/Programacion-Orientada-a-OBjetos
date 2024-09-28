@@ -1,4 +1,4 @@
-//p92_MayorMenor - capturar n números en un arreglo de números enteros.
+//p92_MayorMenor - Capturar n números en un arreglo de números enteros.
 
 import java.util.Scanner;
 public class p92_MayorMenor {

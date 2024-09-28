@@ -1,4 +1,4 @@
-// p93_ParesImpares - SumaPares e Impares de arreglos
+// p93_ParesImpares - SumaPares e Impares de arreglos.
 
 import java.util.Random;
 

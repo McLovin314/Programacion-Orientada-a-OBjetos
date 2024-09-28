@@ -1,4 +1,4 @@
-// p91_MayoresPromedio - Permita al usuario capturar n calificaciones en un arreglo de números flotantes.
+// p91_MayoresPromedio -  Permita al usuario capturar n calificaciones en un arreglo de números flotantes.
 
 import java.util.Scanner;
 

@@ -18,7 +18,7 @@ public class p90_Temperaturas {
         for (float temp : Temperaturas) {
             System.out.print(temp + " ");
         }
-         //Poner 0 a todos los valores mayores a 10
+         //Poner 0 a todos los valores mayores a 10.
 
          for (int i = 0; i < Temperaturas.length; i++) {
             if (Temperaturas[i]> 10) {
