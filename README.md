@@ -155,3 +155,7 @@
 - p101_TrabajoPersona
 - p102_AutorLibro
 - p103_Cliente
+
+## Practica 9
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
