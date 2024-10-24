@@ -2,12 +2,13 @@ package p118_Calculadora;
 
 public class App {
     public static void main(String[] args) {
-        Calculadora maizoro = new Calculadora();
+        Calculadora Maizoro = new Calculadora();
 
-        maizoro.sumar(10, 20);
-        maizoro.restar(100, 50);
-        maizoro.multiplicar(100, 100);
-        maizoro.dividir(50000, 25);
+        System.out.print("\033[H\033[2J");
+        Maizoro.sumar(10,20);
+        Maizoro.Restar(100, 50);
+        Maizoro.multiplicar(100, 100);
+        Maizoro.Dividir(150000, 25);
     }
     
 }
