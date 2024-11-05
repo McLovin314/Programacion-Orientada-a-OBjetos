@@ -188,7 +188,7 @@
 
 ## Actividad 21
 - p118_Calculadora
--p119_Organismo
+- p119_Organismo
 
 ## Practica 12
 - p120_Vehiculo
@@ -201,3 +201,11 @@
 - p125_Excepcion5
 - p126_Excepcion6
 - p127_MiExcepcion
+
+## Practica 14
+- p128_ExcepcionRaiz
+- p129_ExcepcionDulces
+- p130_ExcepcionEdades
+- p131_ExcepcionTemperaturas
+
+
