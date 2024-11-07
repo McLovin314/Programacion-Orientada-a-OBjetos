@@ -4,7 +4,7 @@ import java.io.FileWriter;
 
 public class p133_Archivos2 {
     public static void main(String[] args) {
-         String[] ciudades = {"Zacatecas", "Fresnillo", "Cd Guzman", "Rio Grande", "Guadalajara", "Novolato", "Zacatlan", "Rio Florido", "Tepetortas", "Momax", "Huejucar"};
+        String[] ciudades = {"Zacatecas", "Fresnillo", "Cd Guzman", "Rio Grande", "Guadalajara", "Novolato", "Zacatlan", "Rio Florido", "Tepetortas", "Momax", "Huejucar"};
         File arch = new File("ciudades.txt");
 
         System.out.print("\033[H\033[2J");
