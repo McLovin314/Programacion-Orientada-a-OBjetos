@@ -85,7 +85,7 @@ public class App extends JFrame implements ActionListener {
 
         pnlDatos = new JPanel();
         getContentPane().add(pnlDatos);
-        pnlDatos.setLayout(new GridLayout(4, 2, 0, 0));
+        pnlDatos.setLayout(new GridLayout(2, 1, 0, 0));
         lblNombre = new JLabel("Nombre");
         lblNombre.setHorizontalAlignment(SwingConstants.RIGHT);
         txtNombre = new JTextField();

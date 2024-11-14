@@ -235,6 +235,6 @@
 - p146_EstudianteGUI_v2
 
 ## Tercer Examen Parcial
-- p147_TercerExamenParcial
+- p147_TercerExamenParcial //Interfaz grafica
 
 

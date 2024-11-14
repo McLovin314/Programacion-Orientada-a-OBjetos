@@ -1,5 +1,7 @@
 package p147_TercerExamenParcial;
 
+//Aqui se crean los datos de los jugadores
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;

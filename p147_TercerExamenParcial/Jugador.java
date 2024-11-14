@@ -1,5 +1,6 @@
 package p147_TercerExamenParcial;
 
+//Aqui se crean los constructores
 import java.io.Serializable;
 
 public class Jugador implements Serializable{

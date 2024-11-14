@@ -1,5 +1,7 @@
 package p147_TercerExamenParcial;
 
+//Aqi se desarrolla toda la interfaz grafica
+
 import java.util.ArrayList;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
