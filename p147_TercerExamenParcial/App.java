@@ -52,7 +52,7 @@ public class App extends JFrame implements ActionListener {
         jdlAcercaDe.setSize(400, 250);
         jdlAcercaDe.setModal(true);
         jdlAcercaDe.setLocationRelativeTo(null);
-        lblDatos = new JLabel("<html> Programación Orientada a Objetos I<br>Francisco Valdez García<br> franciscovalgar07@gmail.com</html>", JLabel.CENTER);
+        lblDatos = new JLabel("<html> Programación Orientada a Objetos I<br>Iván Contreras Becerra<br> doucheone473@gmail.com</html>", JLabel.CENTER);
         lblDatos.setFont(new Font("Arial", Font.ROMAN_BASELINE, 18));
         jdlAcercaDe.add(lblDatos);
 
