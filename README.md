@@ -234,4 +234,7 @@
 ## Actividad 25
 - p146_EstudianteGUI_v2
 
+## Tercer Examen Parcial
+- p147_TercerExamenParcial
+
 
