@@ -228,7 +228,10 @@
 - p143_PagaTrabajador 
 - p144_Temperaturas
 
-## Actividad 25
+## Actividad 24
 - p145_EstudianteGUI_v1
+
+## Actividad 25
+- p146_EstudianteGUI_v2
 
 
